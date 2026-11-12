@@ -31,7 +31,7 @@ body,
 @media (prefers-color-scheme: dark) {
   :root {
     --text: #818589;
-    --bg: #faf9f6;
+    --bg: #ffffff;
     --border: #2e303a;
   }
 }
